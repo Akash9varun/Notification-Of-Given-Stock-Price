@@ -22,3 +22,14 @@ pip3 install yahoo_fin
 
 pip3 install pandas  
 
+
+
+
+#running app 
+
+
+python3 notify.py
+
+
+
+streamlit run notify.py
